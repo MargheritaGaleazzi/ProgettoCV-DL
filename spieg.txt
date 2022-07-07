@@ -1,5 +1,0 @@
-Usiamo queste altre due reti per provarne due diverse rispetto a quella che già loro utilizzano, ho scelto queste perchè anche 
-se aumenta il tempo di elaborazione e la size, perà migliora anche l'accuratezza.
-
-https://towardsdatascience.com/image-similarity-with-deep-learning-c17d83068f59
-https://peltarion.com/blog/data-science/image-similarity-explained
