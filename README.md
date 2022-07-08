@@ -2,7 +2,7 @@
 ## Nota
 Data la dimensione notevole di alcuni file, come gli zip contenenti training e test, e come le variabili dei modelli in cui non si è utilizzato il pooling non è stato possibile caricarli su GitHub. 
 
-Sono però disponibli per essere scaricati nel seguente link:
+Sono però disponibli per essere scaricati nel seguente link: [Scarica i file qui](https://drive.google.com/drive/folders/1XYtHa5A8vpBQtx8DoqDLUFMW6e6g-QQo?usp=sharing)
 
 ## Struttura del repository
 ```bash
