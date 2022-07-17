@@ -8,6 +8,7 @@ Sono però disponibli per essere scaricati nel seguente link: [Scarica i file qu
 ```bash
     .
     ├──MobileNetV3Base                      #Modello di base da cui siamo partiti
+    ├──MobileNetV3_15Epochs                 #Modello con allenamento fatto su sole 15 epoche
     ├──MobileNetV3_NoPooling                #Modello come quello di base ma senza pooling
     ├──MobileNetV3_NoPooling_Tutor          #Come il precedente ma con dataset fornito dal tutor
     ├──MobileNetV3_Rocco_batch2             #Modello con batch-size raddoppiato e dataset del tutor
